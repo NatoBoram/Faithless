@@ -1,0 +1,11 @@
+ {
+     "providers": [
+         {
+             "type": "ttf",
+             "file": "minecraft:dyslexic.ttf",
+             "shift": [0, 0],
+             "size": 14.50,
+             "oversample": 25.0
+         }
+ 	]
+ }
